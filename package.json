@@ -1,0 +1,23 @@
+{
+  "name": "cedrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CedricCastanier/cedrepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CedricCastanier/cedrepo/issues"
+  },
+  "homepage": "https://github.com/CedricCastanier/cedrepo#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
